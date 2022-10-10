@@ -37,6 +37,8 @@ It runs on: http://localhost:3000/#/
 
 In your terminal run nodemon index.js should pull up the link above.
 
+Features that I would like to add:
+An authentication login with the components being hidden until the person who logins in.
 
 License:
 MIT
