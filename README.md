@@ -18,5 +18,9 @@ Studio 3T
 Features:
 Main Navbar component which contains other components - Home, Create Account, Login, Balance, Deposit, Withdraw and AllData. The app also uses Bootstrap forms to input data from user.
 
+This is what it look like:
+![image](https://user-images.githubusercontent.com/97487349/194805779-4a12151a-edcd-4949-bf80-dfd39c364aeb.png)
+
+
 License:
 MIT
